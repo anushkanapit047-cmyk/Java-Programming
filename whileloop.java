@@ -1,0 +1,13 @@
+import java.util.*;
+
+public class whileloop {
+    public static void main(String args[]) {
+        double counter = 0;
+        while (counter < 100)
+        {
+            System.out.println("hello Anushka");
+            counter++;
+        }
+    
+}
+}
